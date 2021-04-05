@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 this is the first change to the file
 this is 2nd commit
 
+=======
+
+this is to test integration branch uses
+>>>>>>> parent of 20e6111 (my 1st commit)
